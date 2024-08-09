@@ -8,13 +8,6 @@ Hey, I'm Jordan!
 - 🎸 I ❤️ Playing Music!
 - 🥳 Special Events Planner
 - 💻 Learning Front End Development!
-
-## Current projects
-I'm super excited to be hosting a Hackathon in London Ontario at the [German Canadian Club](https://germancanadianclublondon.com/)!
-The event will be held on June 30th 2024. For more details, please contact me via email or discord, as that is where I am most likely to reply :)
-
-I'm also part of a team currently developing a minimal Social Media service! 
-I'm super excited to be part of this team and even more excited to release more information about the program as it progresses.
  
 ## What I'm learning now!
 <p align="center">
