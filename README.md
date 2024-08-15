@@ -13,7 +13,7 @@ Hey, I'm Jordan!
 <p align="center">
 <!--   <img src="https://skillicons.dev/icons?i=bash,c,cs,css,html,js,react,dotnet,git" /> -->
 	<img height="48" width="48" src="https://cdn.simpleicons.org/dotnet" />
-	<img height="48" width="48" src="https://cdn.simpleicons.org/csharp" />
+<!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/csharp" /> -->
 	<img height="48" width="48" src="https://cdn.simpleicons.org/react" />
 	<img height="48" width="48" src="https://cdn.simpleicons.org/html5" />
 	<img height="48" width="48" src="https://cdn.simpleicons.org/javascript" />
@@ -29,7 +29,7 @@ Hey, I'm Jordan!
   </a>
   <img src="https://skillicons.dev/icons?i=neovim,discord" /> -->
 	<img height="48" width="48" src="https://cdn.simpleicons.org/archlinux" />
-	<img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" />
+<!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode" /> -->
 	<a href="https://dev.to/joerbaen"><img height="48" width="48" src="https://cdn.simpleicons.org/devdotto" /></a>
 	<img height="48" width="48" src="https://cdn.simpleicons.org/discord" title="Joerbaen."/>
 	<img height="48" width="48" src="https://cdn.simpleicons.org/neovim" />
