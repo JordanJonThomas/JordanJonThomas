@@ -12,11 +12,12 @@ Hey, I'm Jordan!
 ## What I'm learning now!
 <p align="center">
 <!--   <img src="https://skillicons.dev/icons?i=bash,c,cs,css,html,js,react,dotnet,git" /> -->
-	<img height="48" width="48" src="https://cdn.simpleicons.org/dotnet" />
+	<img height="48" width="48" src="https://cdn.simpleicons.org/rust" />
+<!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/dotnet" /> -->
 <!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/csharp" /> -->
-	<img height="48" width="48" src="https://cdn.simpleicons.org/react" />
-	<img height="48" width="48" src="https://cdn.simpleicons.org/html5" />
-	<img height="48" width="48" src="https://cdn.simpleicons.org/javascript" />
+<!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/react" /> -->
+<!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/html5" /> -->
+<!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/javascript" /> -->
 	<img height="48" width="48" src="https://cdn.simpleicons.org/gnubash" />
 	<img height="48" width="48" src="https://cdn.simpleicons.org/git" />
 </p>
