@@ -7,7 +7,7 @@ Hey, I'm Jordan!
 - <img src="https://github.com/JordanJonThomas/JordanJonThomas/assets/111250344/099822ff-3d85-4725-9282-8c7ebb8076f9" width=15px > Current Student at Fanshawe College
 - 🎸 I ❤️ Playing Music!
 - 🥳 Special Events Planner
-- 💻 Learning Front End Development!
+- 💻 Learning Async-Rust!
  
 ## What I'm learning now!
 <p align="center">
