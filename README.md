@@ -3,13 +3,20 @@
 
 ## About me
 
-Hey, I'm Jordan! 
+Hey, I'm Jordan! A junior developer that loves building fast, secure and well-designed software.
+
+In programming, I am especially interested in:
+- Systems & low-level code, where reliability, speed and safety is important.
+- Developer tooling, creating new ways to create code faster and more effecient.
+- Customizable & expressive software, created to suit the needs of each individual user.
+
+Beyond programming, I am a:
 - <img src="https://github.com/JordanJonThomas/JordanJonThomas/assets/111250344/099822ff-3d85-4725-9282-8c7ebb8076f9" width=15px > Current Student at Fanshawe College
-- 🎸 I ❤️ Playing Music!
+- 🎸 Musician and active music listener!
+- 🐧 Linux Power User (Arch, NeoVim, terminal-centric workflow)
 - 🥳 Special Events Planner
-- 💻 Learning Async-Rust!
  
-## What I'm learning now!
+## My Favorite Technologies!
 <p align="center">
 <!--   <img src="https://skillicons.dev/icons?i=bash,c,cs,css,html,js,react,dotnet,git" /> -->
 	<img height="48" width="48" src="https://cdn.simpleicons.org/rust" />
@@ -19,6 +26,9 @@ Hey, I'm Jordan!
 <!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/html5" /> -->
 <!-- 	<img height="48" width="48" src="https://cdn.simpleicons.org/javascript" /> -->
 	<img height="48" width="48" src="https://cdn.simpleicons.org/gnubash" />
+	<img height="48" width="48" src="https://cdn.simpleicons.org/cplusplus" />
+	<img height="48" width="48" src="https://cdn.simpleicons.org/react" />
+	<img height="48" width="48" src="https://cdn.simpleicons.org/rubyonrails" />
 	<img height="48" width="48" src="https://cdn.simpleicons.org/git" />
 </p>
 
