@@ -11,10 +11,10 @@ In programming, I am especially interested in:
 - Customizable & expressive software, created to suit the needs of each individual user.
 
 Beyond programming, I am a:
-- <img src="https://github.com/JordanJonThomas/JordanJonThomas/assets/111250344/099822ff-3d85-4725-9282-8c7ebb8076f9" width=15px > Current Student at Fanshawe College
+- <img src="https://github.com/JordanJonThomas/JordanJonThomas/assets/111250344/099822ff-3d85-4725-9282-8c7ebb8076f9" width=15px > Current student at Fanshawe College
 - 🎸 Musician and active music listener!
-- 🐧 Linux Power User (Arch, NeoVim, terminal-centric workflow)
-- 🥳 Special Events Planner
+- 🐧 Linux power user (Arch, NeoVim, terminal-centric workflow)
+- 🥳 Special events planner
  
 ## My Favorite Technologies!
 <p align="center">
