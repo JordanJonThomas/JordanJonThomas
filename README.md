@@ -11,7 +11,7 @@ In programming, I am especially interested in:
 - Customizable & expressive software, created to suit the needs of each individual user.
 
 Beyond programming, I am a:
-- <img src="https://github.com/JordanJonThomas/JordanJonThomas/assets/111250344/099822ff-3d85-4725-9282-8c7ebb8076f9" width=15px > Current student at Fanshawe College
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3nDWwIOX0R40UrIMJo2Ppk85vepRH7KdNi1Egx97k518xLw1WT64YG9k&s=10" width=15px > Current student at Northwestern Michigan College
 - 🎸 Musician and active music listener!
 - 🐧 Linux power user (Arch, NeoVim, terminal-centric workflow)
 - 🥳 Special events planner
